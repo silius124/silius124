@@ -33,4 +33,5 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silius124&theme=aura_dark"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silius124&theme=aura_dark&utcOffset=8"/>
+<img src="https://www.codewars.com/users/silius125/badges/large"/>
 </div>
